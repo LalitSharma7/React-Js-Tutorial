@@ -1,2 +1,5 @@
 # React-js-Todos
-Basic To dos App using react js
+
+Basic Apps using react js
+ - To Dos App
+ - Contact Manager App
